@@ -1,1 +1,2 @@
 # privtest
+just test
